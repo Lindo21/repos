@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "helloworld": {
+    "HelloWorld": {
       "commandName": "Project"
     },
     "Docker": {
